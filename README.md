@@ -1,11 +1,8 @@
-## ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-<img width="750" height="430" alt="4936fe7def863d942796e853ed7b6cc4" src="https://github.com/user-attachments/assets/b44b20ea-68b1-49d1-a8ba-b25a2998bb74" />
-<img width="480" height="332" alt="d54daa77629609d0d1a3c0356a0b66a1" src="https://github.com/user-attachments/assets/f98b1882-ff1e-4ac6-ae57-3c8413048879" />
-<img width="250" height="282" alt="012928bdb15fd6a19f3bfa187e74927f" src="https://github.com/user-attachments/assets/2133d40e-c7bd-41c1-8451-08718ceb43c7" />
+## ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+<img width="498" height="371" alt="9e57f998dbab6a0cceee86a26beea931" src="https://github.com/user-attachments/assets/6d07e881-dfdd-421b-9b03-79fd1c80051b" />
+<img width="500" height="375" alt="3eeaa26d248b53f0e4cd8a738b7d289f" src="https://github.com/user-attachments/assets/38c45bae-04c4-4c76-a99f-e4f3f19499e0" />
 
-## ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-
-
+## ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 <!--
 **KS1M4/KS1M4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
