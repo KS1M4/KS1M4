@@ -1,5 +1,6 @@
-## Hi there 👋
-<img width="250" height="282" alt="012928bdb15fd6a19f3bfa187e74927f" src="https://github.com/user-attachments/assets/ccdc64e8-47db-49ca-a9a4-b3c32986509f" />
+## ⋆ ∙⋅ 
+<img width="420" height="349" alt="336f4f47ca8f74202c1e4c1628c9ad62" src="https://github.com/user-attachments/assets/99d321c6-1346-4295-99c4-af0178d6100b" />
+<img width="342" height="225" alt="489dffb747870b55d8993369bc9c9e26" src="https://github.com/user-attachments/assets/83ab43bc-f140-475e-b2e0-19ebe60e5b38" />
 
 <!--
 **KS1M4/KS1M4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
